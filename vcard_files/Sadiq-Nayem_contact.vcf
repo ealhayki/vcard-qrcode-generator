@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+EMAIL:sadiq@test.com
+FN:Sadiq Nayem
+N:Nayem;Sadiq;;;
+ORG:C;o;r;p;o
+TEL:+1234567890
+TITLE:Operation Manager
+END:VCARD
